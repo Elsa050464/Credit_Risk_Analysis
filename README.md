@@ -15,8 +15,9 @@ The purpose of this project is to build Machine Learning models to help us evalu
 In business there will always be an underlying risks. For as long as the benefits which in this case is the income generated -outweighs the risks - payment defaults. Credit risk analysis through Machine Learning models helped us quantify and draw conclusions where good loans still outnumbered risky loans. In review the six models, the Easy Ensemble AdaBoost Classifier yielded the best results in all categories. The precision in all models were consistent. Machine Learning will aid decision makers and can focus to the High Risk individual to see if it's worth extending loans to them. This will help them save time as the machine can help in automatically approving less riskier loans.
 
 ## Easy Ensemble AdaBoost Classifier
+Other screenshots were taken and attached but just highlighted this result
 ![image](https://user-images.githubusercontent.com/93121665/155908360-b19b41de-0b15-4e07-ac33-8378e3a8d2db.png)
-Other screenshots were taken and attached but just highlighted this result 
+ 
 ## Resources
 Dataset from LendingClub: LoanStats_2019Q1
 Software: Python, Anaconda Pythondata and Jupyter Notebooks
